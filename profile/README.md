@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://structbx.github.io/">Nebula Atom website</a>
+  <a href="https://structbx.github.io/">StructBX website</a>
   ·
   <a href="https://github.com/structbx/structbx/releases">Get StructBX</a>
   ·

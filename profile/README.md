@@ -1,4 +1,4 @@
-<h1 align="center">Spreadsheets + Databases = StructBX</h1><br>
+<h1 align="center">StructBX</h1><br>
 
 <p align="center">
   <a href="https://structbx.github.io/">
@@ -7,13 +7,15 @@
 </p>
 
 <p align="center">
-    Structbx combines the power of spreadsheets and the strength of databases on a platform.
+  StructBX is the open source platform that allows you to create related databases, public forms and custom views without requiring advanced technical knowledge.
 </p>
 
 <p align="center">
-  <a href="https://structbx.github.io/">StructBX website</a>
+  <a href="https://structbx.com/">StructBX website</a>
   ·
   <a href="https://github.com/structbx/structbx/releases">Get StructBX</a>
   ·
   <a href="https://github.com/structbx/structbx/issues/new/choose">Report a bug</a>
+  ·
+  <a href="https://cloud.structbx.com">Try for free</a>
 </p>

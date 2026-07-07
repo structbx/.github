@@ -7,15 +7,11 @@
 </p>
 
 <p align="center">
-  StructBX is the open source platform that allows you to create related databases, public forms and custom views without requiring advanced technical knowledge.
+  StructBX is a web-based tool to manage **MariaDB/MySQL** databases directly from your browser. Create, edit, and delete tables, columns, views, forms, and more — through a clean interface without writing SQL.
 </p>
 
 <p align="center">
-  <a href="https://structbx.com/">StructBX website</a>
-  ·
   <a href="https://github.com/structbx/structbx/releases">Get StructBX</a>
   ·
   <a href="https://github.com/structbx/structbx/issues/new/choose">Report a bug</a>
-  ·
-  <a href="https://cloud.structbx.com">Try for free</a>
 </p>
